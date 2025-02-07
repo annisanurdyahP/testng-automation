@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-07T10:31:00 WIB" name="Surefire suite" finished-at="2025-02-07T10:31:05 WIB" duration-ms="5372">
+    <groups>
+    </groups>
+    <test started-at="2025-02-07T10:31:00 WIB" name="Surefire test" finished-at="2025-02-07T10:31:05 WIB" duration-ms="5372">
+      <class name="com.example.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.example.LoginTest@8e0379d]" started-at="2025-02-07T10:31:00 WIB" name="setup" finished-at="2025-02-07T10:31:02 WIB" duration-ms="2439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogin(com.example.model.User)[pri:0, instance:com.example.LoginTest@8e0379d]" started-at="2025-02-07T10:31:02 WIB" name="testLogin" data-provider="userData" finished-at="2025-02-07T10:31:04 WIB" duration-ms="1783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.example.model.User@6650813a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testLogin(com.example.model.User)[pri:0, instance:com.example.LoginTest@8e0379d]" started-at="2025-02-07T10:31:04 WIB" name="testLogin" data-provider="userData" finished-at="2025-02-07T10:31:04 WIB" duration-ms="256" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.example.model.User@14a54ef6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testLogin(com.example.model.User)[pri:0, instance:com.example.LoginTest@8e0379d]" started-at="2025-02-07T10:31:04 WIB" name="testLogin" data-provider="userData" finished-at="2025-02-07T10:31:05 WIB" duration-ms="249" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.example.model.User@1500e009]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testLogin(com.example.model.User)[pri:0, instance:com.example.LoginTest@8e0379d]" started-at="2025-02-07T10:31:05 WIB" name="testLogin" data-provider="userData" finished-at="2025-02-07T10:31:05 WIB" duration-ms="224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.example.model.User@4ad4936c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testLogin(com.example.model.User)[pri:0, instance:com.example.LoginTest@8e0379d]" started-at="2025-02-07T10:31:05 WIB" name="testLogin" data-provider="userData" finished-at="2025-02-07T10:31:05 WIB" duration-ms="206" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.example.model.User@27abb83e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.example.LoginTest@8e0379d]" started-at="2025-02-07T10:31:05 WIB" name="teardown" finished-at="2025-02-07T10:31:05 WIB" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.example.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
