@@ -105,7 +105,7 @@ Jika mengalami error, coba periksa:
   ```
 
 ## 📌 Referensi
-- [TestNG Documentation](https://testng.org/doc/)
+- [TestNG Documentation](https://testng.org/)
 - [Selenium WebDriver](https://www.selenium.dev/documentation/)
 - [WebDriverManager](https://bonigarcia.dev/webdrivermanager/)
 
